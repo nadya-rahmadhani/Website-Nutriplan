@@ -2,7 +2,7 @@
 
 Aplikasi web berbasis Laravel yang membantu pengguna merencanakan pola makan sesuai tujuan nutrisi (menurunkan berat badan, menjaga berat badan, atau menambah berat badan), sekaligus memantau perkembangan berat badan secara berkala.
 
-![Landing Page](screenshot/landing.png)
+![Landing Page](screenshoot/landing.png)
 
 ---
 
@@ -116,16 +116,16 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
 ### Landing Page
-![Landing Page](screenshot/landing.png)
+![Landing Page](screenshoot/landing.png)
 
 ### Register
-![Register](screenshot/register.png)
+![Register](screenshoot/register.png)
 
 ### Dashboard
-![Dashboard](screenshot/dashboard.png)
+![Dashboard](screenshoot/dashboard.png)
 
 ---
 
