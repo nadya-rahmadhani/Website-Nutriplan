@@ -1,4 +1,4 @@
-# 🥗 NutriPlan - Personal Meal Planner & Weight Tracker
+# 🥗 NutriPlan - Website "Personal Meal Planner & Weight Tracker"
 
 Aplikasi web berbasis Laravel yang membantu pengguna merencanakan pola makan sesuai tujuan nutrisi (menurunkan berat badan, menjaga berat badan, atau menambah berat badan), sekaligus memantau perkembangan berat badan secara berkala.
 
