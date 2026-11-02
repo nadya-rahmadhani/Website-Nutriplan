@@ -16,12 +16,12 @@ Sistem membantu menyusun jadwal makan harian dan mingguan, serta menyediakan fit
 
 ##  Fitur Utama
 
-- ** Meal Planning** — Buat dan kelola jadwal makan mingguan dengan template otomatis berdasarkan tujuan nutrisi
-- ** Weight Tracker** — Catat dan pantau perkembangan berat badan dengan grafik interaktif dari waktu ke waktu
-- ** Favorite Foods** — Simpan makanan favorit sebagai referensi cepat saat menyusun meal plan
-- ** Browse Makanan** — Cari dan filter makanan berdasarkan kategori, nama, atau kandungan kalori
-- ** Personalized Goals** — Template meal plan otomatis menyesuaikan tujuan nutrisi pengguna (Diet, Maintenance, Bulking)
-- ** Dashboard** — Ringkasan progress: berat badan saat ini, jumlah meal plan aktif, makanan favorit, dan sisa target berat badan
+- Meal Planning — Buat dan kelola jadwal makan mingguan dengan template otomatis berdasarkan tujuan nutrisi
+- Weight Tracker — Catat dan pantau perkembangan berat badan dengan grafik interaktif dari waktu ke waktu
+- Favorite Foods — Simpan makanan favorit sebagai referensi cepat saat menyusun meal plan
+- Browse Makanan — Cari dan filter makanan berdasarkan kategori, nama, atau kandungan kalori
+- Personalized Goals — Template meal plan otomatis menyesuaikan tujuan nutrisi pengguna (Diet, Maintenance, Bulking)
+- Dashboard — Ringkasan progress: berat badan saat ini, jumlah meal plan aktif, makanan favorit, dan sisa target berat badan
 
 ---
 
