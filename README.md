@@ -6,7 +6,7 @@ Aplikasi web berbasis Laravel yang membantu pengguna merencanakan pola makan ses
 
 ---
 
-## 🎯 Tentang Aplikasi
+##  Tentang Aplikasi
 
 NutriPlan menyelesaikan masalah umum yang dihadapi banyak orang saat menjalani program kesehatan: kesulitan menyusun menu makanan teratur, menentukan jadwal makan harian, memantau perkembangan berat badan, dan menjaga konsistensi pola makan.
 
@@ -14,18 +14,18 @@ Sistem membantu menyusun jadwal makan harian dan mingguan, serta menyediakan fit
 
 ---
 
-## ✨ Fitur Utama
+##  Fitur Utama
 
-- **🍽️ Meal Planning** — Buat dan kelola jadwal makan mingguan dengan template otomatis berdasarkan tujuan nutrisi
-- **📊 Weight Tracker** — Catat dan pantau perkembangan berat badan dengan grafik interaktif dari waktu ke waktu
-- **❤️ Favorite Foods** — Simpan makanan favorit sebagai referensi cepat saat menyusun meal plan
-- **🔍 Browse Makanan** — Cari dan filter makanan berdasarkan kategori, nama, atau kandungan kalori
-- **🎯 Personalized Goals** — Template meal plan otomatis menyesuaikan tujuan nutrisi pengguna (Diet, Maintenance, Bulking)
-- **📈 Dashboard** — Ringkasan progress: berat badan saat ini, jumlah meal plan aktif, makanan favorit, dan sisa target berat badan
+- ** Meal Planning** — Buat dan kelola jadwal makan mingguan dengan template otomatis berdasarkan tujuan nutrisi
+- ** Weight Tracker** — Catat dan pantau perkembangan berat badan dengan grafik interaktif dari waktu ke waktu
+- ** Favorite Foods** — Simpan makanan favorit sebagai referensi cepat saat menyusun meal plan
+- ** Browse Makanan** — Cari dan filter makanan berdasarkan kategori, nama, atau kandungan kalori
+- ** Personalized Goals** — Template meal plan otomatis menyesuaikan tujuan nutrisi pengguna (Diet, Maintenance, Bulking)
+- ** Dashboard** — Ringkasan progress: berat badan saat ini, jumlah meal plan aktif, makanan favorit, dan sisa target berat badan
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Laravel 12** — backend framework (PHP)
 - **Laravel Breeze** — authentication scaffolding
@@ -36,7 +36,7 @@ Sistem membantu menyusun jadwal makan harian dan mingguan, serta menyediakan fit
 
 ---
 
-## 🗄️ Database Structure
+##  Database Structure
 
 Database `db_nutriplan` terdiri dari beberapa tabel utama:
 
@@ -52,7 +52,7 @@ Database `db_nutriplan` terdiri dari beberapa tabel utama:
 
 ---
 
-## 🚀 How to Run (Local Setup)
+##  How to Run (Local Setup)
 
 Aplikasi ini membutuhkan environment **PHP + MySQL**, dijalankan secara lokal menggunakan XAMPP dan Laravel Artisan.
 
